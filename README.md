@@ -1,0 +1,1 @@
+With 21 predictor variables we need to predict whether a particular customer will switch to another df provider or not. In df terminology, this is referred to as churning and not churning, respectively.
